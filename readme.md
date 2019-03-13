@@ -94,6 +94,7 @@ This application will be made available for english and german speakers.
 
 As progress moves on I wish to keep things clean via:
 
+- Gitflow (Branching Principle)
 - PhpStorm Plugins:
     - Php Annotations
     - Php Inspections
