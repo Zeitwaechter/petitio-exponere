@@ -1,0 +1,25 @@
+{
+    "name": "zeitwaechter/auth",
+    "description": "",
+    "authors": [
+        {
+            "name": "Marcel Ludwig",
+            "email": "jobs@marcelludwig.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Auth\\Providers\\AuthServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Auth\\": ""
+        }
+    }
+}
