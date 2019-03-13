@@ -27,7 +27,7 @@ It's base idea is some years old and will now be put in motion due to it's somew
     - [ ] The Lay of the Land 
         (Makeshift White Papers for it's few USPs, Database, Modules, anemic APIs)
 1. Modules
-    - [ ] Implementing/Restructuring Laravel Boilerplate due to `nw-darf/laravel-modules`
+    - [ ] Implementing/Restructuring Laravel Boilerplate due to `nwidart/laravel-modules`
     - [ ] Implementing of all (current) recognized Modules
     - [ ] Implementing of Module Context Structure (Entities/Repositories/Controller/API/Requests)
 1. Module Context (simply defined)
