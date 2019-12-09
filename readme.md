@@ -1,5 +1,9 @@
 ## Petitio Exponere
 
+### DEPRECATED
+
+This project will be replaced.
+
 ### Introduction
 
 Much wow, much awesome!
