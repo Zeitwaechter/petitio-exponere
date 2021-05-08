@@ -2,7 +2,9 @@
 
 ### DEPRECATED
 
-This project will be replaced.
+This project will be replaced. 
+
+Still, updated to L8.X.
 
 ### Introduction
 
